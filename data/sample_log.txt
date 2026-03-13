@@ -1,0 +1,6 @@
+2026-03-12 14:23:10 INFO User login: crystal@example.com
+2026-03-12 14:24:11 ERROR Database timeout
+2026-03-12 14:25:02 WARNING Disk usage at 85%
+2026-03-12 14:26:45 INFO User logout: crystal@example.com
+2026-03-12 14:28:12 INFO User login: admin@example.com
+2026-03-12 14:29:30 ERROR Failed password attempt
